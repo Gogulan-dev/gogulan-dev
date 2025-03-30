@@ -21,14 +21,14 @@
 
 ## 📌 Pinned Projects
 
-🔹 [**LoRa Geofencing Application**](https://github.com/Gogul12/LoRa-GPS-Tracker-No-GSM-Internet-) – LoRa-based tracker for geofencing solutions.  
+🔹 [**LoRa Geofencing Application**](https://github.com//LoRa-GPS-Tracker-No-GSM-Internet-) – LoRa-based tracker for geofencing solutions.  
 🔹 [**DSA Problem-Solving**](https://github.com/your-repo) – A collection of solved DSA problems in Java.  
 🔹 [**Digital Design with Verilog**](https://github.com/your-repo) – Verilog-based digital circuit projects.  
 
 ## 📊 GitHub Stats
 
-![Gogulan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gogul12&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gogul12&layout=compact&theme=radical)
+![Gogulan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gogulan-dev&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gogulan-dev&layout=compact&theme=radical)
 
 ## 🏆 GitHub Badges
 
