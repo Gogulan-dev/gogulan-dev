@@ -22,7 +22,7 @@
 ## 📌 Pinned Projects
 
 🔹 [**LoRa Geofencing Application**](https://github.com/Gogulan-dev/LoRa-GPS-Tracker-No-GSM-Internet) – LoRa-based tracker for geofencing solutions.  
-🔹 [**DSA Problem-Solving**](https://github.com/your-repo) – A collection of solved DSA problems in Java.  
+🔹 [**DSA Problem-Solving**](https://github.com/Gogulan-dev/DSA-Solved-Problems-main) – A collection of solved DSA problems in Java.  
 🔹 [**Digital Design with Verilog**](https://github.com/your-repo) – Verilog-based digital circuit projects.  
 
 ## 📊 GitHub Stats
