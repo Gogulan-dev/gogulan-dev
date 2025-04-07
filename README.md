@@ -37,4 +37,4 @@
 
 ---
 💬 **Let's Connect!**  
-🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/gogulan-v-dev/)
+🔗 LinkedIn: [linkedin.com/in/gogulan-v-dev/](https://www.linkedin.com/in/gogulan-v-dev/)
