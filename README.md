@@ -37,5 +37,4 @@
 
 ---
 💬 **Let's Connect!**  
-📧 Email: [gogulan.dev@gmail.com](mailto:gogulan.dev@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/gogulan-v-dev/)
