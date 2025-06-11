@@ -14,9 +14,9 @@
 
 ## 🚀 LeetCode Profile
 🔗 [My LeetCode Profile](https://leetcode.com/your-username/)  
-![LeetCode Stats](https://leetcard.jacoblin.cool/gogulan_3?theme=dark&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/gogulan_4?theme=dark&ext=heatmap)
 
-![LeetCode Problems Solved](https://img.shields.io/badge/dynamic/json?color=blue&label=LeetCode&query=totalSolved&suffix=%20solved&url=https://leetcode-stats-api.herokuapp.com/gogulan_3)
+![LeetCode Problems Solved](https://img.shields.io/badge/dynamic/json?color=blue&label=LeetCode&query=totalSolved&suffix=%20solved&url=https://leetcode-stats-api.herokuapp.com/gogulan_4)
 
 
 ## 📌 Pinned Projects
