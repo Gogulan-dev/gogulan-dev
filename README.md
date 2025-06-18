@@ -34,8 +34,7 @@
 
 ![Followers](https://img.shields.io/github/followers/Gogulan-dev?style=social)
 ![Stars](https://img.shields.io/github/stars/Gogulan-dev?affiliations=OWNER&style=social)
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Gogulan-dev.Gogulan-dev)
-
+![Visitors](https://count.getloli.com/get/@Gogulan-dev?theme=classic)
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Gogulan-dev.Gogulan-dev&color=blue&title=Profile%20Views)
 ---
