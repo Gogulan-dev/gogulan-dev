@@ -2,7 +2,7 @@
 
 🚀 **Software Developer | IoT & Embedded Systems Enthusiast**  
 💡 Passionate about **Problem-Solving, DSA, Verilog & Microcontrollers**  
-🔧 Building **LoRa Geofencing App & Water Security Solutions**  
+🔧 Building **LoRa Geofencing Application & Water Security Solutions**  
 📌 Exploring **DevOps & AI-powered tools**  
 
 ## 🛠 Tech Stack
@@ -10,7 +10,7 @@
 - **Languages**: Java, Python, Verilog, C
 - **Embedded Systems**: 8051 Microcontroller, LoRaWAN
 - **Development**: Git, Linux, MATLAB, Keil, VS Code
-- **Domains**: IoT, Wireless Communication, DSA, Digital Design
+- **Domains**: Software Development, IoT, DSA, Digital Design
 
 ## 🚀 LeetCode Profile
 🔗 [My LeetCode Profile](https://leetcode.com/your-username/)  
@@ -23,7 +23,6 @@
 
 🔹 [**LoRa Geofencing Application**](https://github.com/Gogulan-dev/LoRa-GPS-Tracker-No-GSM-Internet) – LoRa-based tracker for geofencing solutions.  
 🔹 [**DSA Problem-Solving**](https://github.com/Gogulan-dev/DSA-Solved-Problems-main) – A collection of solved DSA problems in Java.  
-🔹 [**Digital Design with Verilog**](https://github.com/your-repo) – Verilog-based digital circuit projects.  
 
 ## 📊 GitHub Stats
 
