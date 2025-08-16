@@ -7,9 +7,9 @@
 
 ## 🛠 Tech Stack
 
-- **Languages**: Java, Python, Verilog, C
+- **Languages**: Java, Python, Verilog, C/C++
 - **Embedded Systems**: 8051 Microcontroller, LoRaWAN
-- **Development**: Git, Linux, MATLAB, Keil, VS Code
+- **Development**: Git, Linux, RESTful API, MATLAB, Keil, VS Code
 - **Domains**: Software Development, IoT, DSA, Digital Design
 
 ## 🚀 LeetCode Profile
