@@ -13,7 +13,7 @@
 - **Domains**: Software Development, IoT, DSA, Digital Design
 
 ## 🚀 LeetCode Profile
-🔗 [My LeetCode Profile](https://leetcode.com/your-username/)  
+🔗 [My LeetCode Profile](https://leetcode.com/gogulan_4/)  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/gogulan_4?theme=dark&ext=heatmap)
 
 ![LeetCode Problems Solved](https://img.shields.io/badge/dynamic/json?color=blue&label=LeetCode&query=totalSolved&suffix=%20solved&url=https://leetcode-stats-api.herokuapp.com/gogulan_4)
